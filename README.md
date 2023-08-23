@@ -11,7 +11,7 @@ If you have the game on steam, just subscribe to it on the [steam workshop](http
 
 Download this repository as an archive (as a `.zip` file if you're unsure what to choose), then copy the `BigCity` folder inside of the archive in the `Mods` folder inside of :
 
-- **Windows**: `C:\Users\<username>\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods` (quickly access it by typing `%APPDATA%` in Explorer's path then navigating one folder up).
+- **Windows**: `C:\Users\<username>\AppData\Local\Colossal Order\Cities_Skylines\Addons\Mods` (quickly access it by typing `%LOCALAPPDATA%` in Explorer's path).
 - **Linux**: `/home/<username>/.local/share/Colossal Order/Cities_Skylines/Addons/Mods/`
 - **Mac**: `/Users/<username>/Library/Application Support/Colossal Order/Cities_Skylines/Addons/Mods`
 
